@@ -1,0 +1,128 @@
+[
+	{
+		"id": 1,
+		"activity_score": 565265591861930.25,
+		"emails": [
+			"support@rozetka.zendesk.com"
+		]
+	},
+	{
+		"id": 2,
+		"activity_score": 366220500632379.125,
+		"emails": [
+			"yura@ukr.net"
+		],
+		"first_name": "Юра"
+	},
+	{
+		"id": 3,
+		"activity_score": 77563010152061.859375,
+		"emails": [
+			"ivan@ukr.net"
+		],
+		"last_name": "Тернаєв"
+	},
+	{
+		"id": 4,
+		"activity_score": 12244644846.573062896728515625,
+		"emails": [
+			"kate@ukr.net"
+		],
+		"first_name": "Катерина",
+		"last_name": "Мілан"
+	},
+	{
+		"id": 5,
+		"activity_score": 35713313.40734039247035980224609375,
+		"emails": [
+			"training_1@ukr.net"
+		],
+		"first_name": "Worker",
+		"last_name": "Worker"
+	},
+	{
+		"id": 6,
+		"activity_score": 13023146.0093496553599834442138671875
+	},
+	{
+		"id": 7,
+		"activity_score": 987654321.123456789,
+		"emails": [
+			"alice@email.com"
+		],
+		"first_name": "Alice",
+		"last_name": "Johnson"
+	},
+	{
+		"id": 8,
+		"activity_score": 876543210.987654321,
+		"emails": [
+			"bob@email.com"
+		],
+		"first_name": "Bob",
+		"last_name": "Smith"
+	},
+	{
+		"id": 9,
+		"activity_score": 654321098.765432109,
+		"emails": [
+			"anastasiia@email.com"
+		],
+		"first_name": "Анастасія",
+		"last_name": "Коваль"
+	},
+	{
+		"id": 10,
+		"activity_score": 543210987.654321098,
+		"emails": [
+			"serhii@email.com"
+		],
+		"first_name": "Сергій",
+		"last_name": "Григоренко"
+	},
+	{
+		"id": 11,
+		"activity_score": 432109876.543210987,
+		"emails": [
+			"oksana@email.com"
+		],
+		"first_name": "Оксана",
+		"last_name": "Лисенко"
+	},
+	{
+		"id": 12,
+		"activity_score": 321098765.432109876,
+		"emails": [
+			"ivan@email.com"
+		],
+		"first_name": "Іван",
+		"last_name": "Мельник"
+	},
+	{
+		"id": 13,
+		"activity_score": 210987654.321098765,
+		"emails": [
+			"nataliia@email.com"
+		],
+		"first_name": "Наталія",
+		"last_name": "Сидоренко"
+	},
+	{
+		"id": 14,
+		"activity_score": 109876543.210987654,
+		"emails": [
+			"andrii@email.com"
+		],
+		"first_name": "Андрій",
+		"last_name": "Коваленко"
+	},
+	{
+		"id": 15,
+		"activity_score": 98765432.109876543,
+		"emails": [
+			"maria@email.com"
+		],
+		"first_name": "Марія",
+		"last_name": "Іваненко"
+	}
+]
